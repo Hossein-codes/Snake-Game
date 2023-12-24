@@ -1,1 +1,1 @@
-# Snake-Game
+This code is a simple Snake game developed using Python programming language along with the Pygame library. Players control the snake using arrow keys, attempting to guide it to its longest possible length without colliding with walls or itself. By consuming food items, the snake grows in size, while collisions with itself or the walls end the game.
